@@ -24,3 +24,4 @@ Twitter
 Telegram
 Instagram
 Visit our website <b><a href="https://txbitcoin.me/" title="TxBitcoin Ai">TxBitcoin Ai</a></b>for more details.
+<img src="https://txbitcoin.me/wp-content/uploads/2024/01/Ai-512x512-1.png" alt="TxBitcoin Ai">
