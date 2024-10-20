@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋<br>
 
-Welcome to TxBitcoin Ai
-TxBitcoin Ai is an innovative platform designed to boost your content creation, social media presence, and sales growth. Tailored for agencies and businesses, TxBitcoin Ai helps expand your reach across platforms like Twitch, TikTok, Facebook, YouTube, and Binance Square.
+Welcome to TxBitcoin Ai<br>
+TxBitcoin Ai is an innovative platform designed to boost your content creation, social media presence, and sales growth. Tailored for agencies and businesses, TxBitcoin Ai helps expand your reach across platforms like Twitch, TikTok, Facebook, YouTube, and Binance Square.<br>
 
-Key Features:
-👉 Content Creation: License-free media for social platforms
-👉v Partner Platforms: Coinbuzzer.me, Binance Square, CoinMarketCap
-👉 Social Media Growth: Tailored solutions for maximized visibility
+Key Features:<br>
+👉 Content Creation: License-free media for social platforms<br>
+👉v Partner Platforms: Coinbuzzer.me, Binance Square, CoinMarketCap<br>
+👉 Social Media Growth: Tailored solutions for maximized visibility<br>
 
-Token Information:
-Ticker Symbol: TxBAi
-Total Supply: 100,000,000
+Token Information:<br>
+Ticker Symbol: TxBAi<br>
+Total Supply: 100,000,000<br>
 <b>BscScan Contract: <a href="https://bscscan.com/token/0x8bcab690ab007269fdb7f6075f4915e5df36fb09" title="0x8bcab690ab007269fdb7f6075f4915e5df36fb09">0x8bcab690ab007269fdb7f6075f4915e5df36fb09</a> </b>  
 <b>Listed exchanges is currently: <a href="https://pancakeswap.finance/swap?outputCurrency=0x8bcAB690Ab007269FDb7F6075f4915e5dF36Fb09" title="PancakeSwap">PancakeSwap</a></b>
 <b>Listed exchanges is currently: <a href="https://coinubex.com/" title="CoinubeX">CoinubeX</a></b>
