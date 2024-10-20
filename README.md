@@ -3,12 +3,12 @@
 Welcome to TxBitcoin Ai<br>
 TxBitcoin Ai is an innovative platform designed to boost your content creation, social media presence, and sales growth. Tailored for agencies and businesses, TxBitcoin Ai helps expand your reach across platforms like Twitch, TikTok, Facebook, YouTube, and Binance Square.<br>
 
-<b>Key Features:<br>
+##Key Features:<br>
 👉 Content Creation: License-free media for social platforms<br>
 👉v Partner Platforms: Coinbuzzer.me, Binance Square, CoinMarketCap<br>
 👉 Social Media Growth: Tailored solutions for maximized visibility<br>
 
-<b>Token Information:<br>
+##Token Information:<br>
 Ticker Symbol: TxBAi<br>
 Total Supply: 100,000,000<br>
 BscScan Contract: <a href="https://bscscan.com/token/0x8bcab690ab007269fdb7f6075f4915e5df36fb09" title="0x8bcab690ab007269fdb7f6075f4915e5df36fb09">0x8bcab690ab007269fdb7f6075f4915e5df36fb09</a> </b>  <br>
